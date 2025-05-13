@@ -1,0 +1,27 @@
+{
+    "product1": {
+        "digital": 45,
+        "name": "冰红茶"
+    },
+    "product2": {
+        "digital": 25,
+        "name": "可乐"
+    },
+    "product3": {
+        "digital": 25,
+        "name": "方便面"
+    },
+    "product4": {
+        "digital": 35,
+        "name": "辣条"
+    },
+    "product5": {
+        "digital": 25,
+        "name": "火腿肠"
+    },
+
+    "product6": {
+        "digital": 35,
+        "name": "薯片"
+    }
+}
